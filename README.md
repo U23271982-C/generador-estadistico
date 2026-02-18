@@ -1,4 +1,4 @@
-# 📊 Generador Estadístico De Eventos Sísmicos Del Perú 1960-1970
+# 📊 Generador Estadístico De Eventos Sísmicos Del Perú 1960-2021
 
 Proyecto en **Java** para generar y analizar datos estadísticos.
 
